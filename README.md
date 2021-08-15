@@ -1,10 +1,4 @@
----
-title: "cyclistic data analysis process"
-output:
-  html_document:
-    df_print: paged
-  pdf_document: default
----
+# cyclistic data analysis process
 
 ## Data Processing
 
